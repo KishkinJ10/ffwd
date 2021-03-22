@@ -13,13 +13,13 @@ The following is a set of guidelines for contributing to FFWD.
 
 ## Your First Contribution
 
-Unsure where to begin contributing to FFWD? You can start by browsing through these [starter issues](https://github.com/spotify/ffwd/issues?q=is%3Aissue+is%3Aopen+label%3Alevel%3Astarter).
+Unsure where to begin contributing to FFWD? You can start by browsing through these [starter issues= These issues are for beginners who want to contribute in the FFWD projects](https://github.com/spotify/ffwd/issues?q=is%3Aissue+is%3Aopen+label%3Alevel%3Astarter).
 
 Working on your first Pull Request? You can learn how from this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 ## Getting started
 
-We use GitHub to manage issues. You can follow along and create issues [here](https://github.com/spotify/ffwd/issues). 
+We use GitHub to manage issues and to contribute in open source organizations . You can follow along and create issues [here](https://github.com/spotify/ffwd/issues). 
 
 ### Create your own fork of the code
 
@@ -47,5 +47,5 @@ If you find yourself wishing for a feature that doesn't exist in FFWD, you are p
  
 ## Code of Conduct
 
-This project adheres to the [Open Code of Conduct](https://github.com/spotify/code-of-conduct/blob/master/code-of-conduct.md). By participating, you are expected to honor this code.
+This project adheres to the [Open Code of Conduct](https://github.com/spotify/code-of-conduct/blob/master/code-of-conduct.md). By participating, you are expected to honor this code and adhere to the rules and regulations listed in the code of conduct.
 
